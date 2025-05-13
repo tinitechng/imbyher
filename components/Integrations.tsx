@@ -1,6 +1,5 @@
 import React from "react";
 import { FiMessageCircle, FiMessageSquare } from "react-icons/fi";
-import Image from "next/image";
 
 const Integrations: React.FC = () => {
   return (
@@ -56,8 +55,8 @@ const Integrations: React.FC = () => {
               </div>
               <div className="bg-white p-3 rounded-lg shadow-sm">
                 <p className="text-sm">
-                  SMS works everywhere, even when internet isn't available to
-                  the recipient.
+                  SMS works everywhere, even when internet isn&apos;t available
+                  to the recipient.
                 </p>
               </div>
             </div>

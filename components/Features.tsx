@@ -1,12 +1,11 @@
 import React from "react";
 import {
   FiClock,
-  FiMessageSquare,
-  FiSave,
   FiEdit,
   FiCheckCircle,
   FiSettings,
   FiLock,
+  FiSave,
 } from "react-icons/fi";
 
 interface FeatureProps {
